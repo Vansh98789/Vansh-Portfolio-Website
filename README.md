@@ -75,18 +75,3 @@ _Jun 2024 – Aug 2024, Delhi, India_
   Mentored juniors and led case-study competitions.
 
 ---
-
-## 📸 Portfolio Preview
-
-> Add a screenshot of your portfolio here  
-> ![Portfolio Screenshot](./screenshot.png)
-
----
-
-## 🧑‍💻 How to Run Locally
-
-```bash
-git clone https://github.com/Vansh98789/portfolio.git
-cd portfolio
-npm install
-npm run dev
