@@ -576,8 +576,8 @@ const Portfolio = () => {
                   <div className="text-gray-400 text-sm">Projects</div>
                 </div>
                 <div className="text-center p-4 bg-gray-700/50 rounded-lg">
-                  <div className="text-3xl font-bold text-purple-400">5+</div>
-                  <div className="text-gray-400 text-sm">Hackathons Participated</div>
+                  <div className="text-3xl font-bold text-purple-400">400+</div>
+                  <div className="text-gray-400 text-sm">DSA Problems Solved</div>
                 </div>
                 <div className="text-center p-4 bg-gray-700/50 rounded-lg">
                   <div className="text-3xl font-bold text-yellow-400">15+</div>
