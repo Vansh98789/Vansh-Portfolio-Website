@@ -165,7 +165,23 @@ const Portfolio = () => {
       github: true,
       liveUrl: 'https://prep-sphere-frontend.vercel.app/',
       githubUrl: 'https://github.com/Vansh98789/PrepSphere'
-    }
+    },
+      {
+  title: 'TimeVault',
+  description:
+    'Decentralized time capsule dApp with immutable IPFS storage and Ethereum smart contract integration',
+  tech: ['React.js', 'Solidity', 'IPFS', 'Ethereum', 'Web3.js', 'MetaMask'],
+  features: [
+    '100% wallet-based authentication',
+    '90% reduction in on-chain storage costs',
+    '24/7 decentralized media access'
+  ],
+  live: false,
+  github: true,
+  liveUrl: '',
+  githubUrl: 'https://github.com/Vansh98789/TimeVault'
+}
+
   ];
 
   const skills = {
