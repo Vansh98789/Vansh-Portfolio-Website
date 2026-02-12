@@ -185,7 +185,7 @@ const Portfolio = () => {
   title: 'AI UI Builder (Multi-Agent System)',
   description:
     'LLM-powered UI generation platform that converts natural language into structured React components using a multi-agent architecture (Planner, Generator, Explainer).',
-  tech: ['React', 'TypeScript', 'Node.js', 'Express', 'Gemini API', 'Tailwind CSS'],
+  tech: ['React', 'TypeScript', 'Node.js', 'Express', 'Groq API', 'Tailwind CSS'],
   features: [
     'Multi-agent LLM pipeline (Planner → Generator → Explainer)',
     'Dynamic component rendering with JSON-driven architecture',
