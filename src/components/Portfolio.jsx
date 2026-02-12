@@ -196,6 +196,22 @@ const Portfolio = () => {
   liveUrl: '', 
   githubUrl: 'https://github.com/Vansh98789/Text-to-Component.git'
 },
+      {
+  title: 'Sociotalk',
+  description:
+    'Full-stack social media platform built using the PERN stack where users can share their views, like posts, and comment on others.',
+  tech: ['PostgreSQL', 'Express.js', 'React', 'Node.js', 'JWT'],
+  features: [
+    'Create and share posts in real time',
+    'Like and comment on other users’ posts',
+    'Secure authentication with JWT'
+  ],
+  live: false,
+  github: true,
+  liveUrl: '',
+  githubUrl: 'https://github.com/Vansh98789/SocioTalk.git'
+},
+
 
 
   ];
