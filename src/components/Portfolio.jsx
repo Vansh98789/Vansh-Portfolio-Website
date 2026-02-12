@@ -180,7 +180,23 @@ const Portfolio = () => {
   github: true,
   liveUrl: '',
   githubUrl: 'https://github.com/Vansh98789/TimeVault'
-}
+},
+      {
+  title: 'AI UI Builder (Multi-Agent System)',
+  description:
+    'LLM-powered UI generation platform that converts natural language into structured React components using a multi-agent architecture (Planner, Generator, Explainer).',
+  tech: ['React', 'TypeScript', 'Node.js', 'Express', 'Gemini API', 'Tailwind CSS'],
+  features: [
+    'Multi-agent LLM pipeline (Planner → Generator → Explainer)',
+    'Dynamic component rendering with JSON-driven architecture',
+    'Strict component validation layer for safe UI generation'
+  ],
+  live: false, 
+  github: true,
+  liveUrl: '', 
+  githubUrl: 'https://github.com/Vansh98789/Text-to-Component.git'
+},
+
 
   ];
 
