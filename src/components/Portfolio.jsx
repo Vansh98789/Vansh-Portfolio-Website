@@ -136,6 +136,24 @@ const Portfolio = () => {
       liveUrl: 'https://testiview-frontend.vercel.app/', // sample URL
       githubUrl: 'https://github.com/Vansh98789/testiview_to_deploy' // sample URL
     },
+      
+      title: 'TimeVault',
+      description:
+        'Decentralized Time Capsule dApp on Solana where users can lock files and SOL deposits on-chain, revealed only after a set unlock time via timestamp-locked PDAs and IPFS storage.',
+      tech: ['React', 'Rust', 'Anchor', 'Solana', 'IPFS'],
+      features: [
+        '90% reduction in on-chain storage costs via IPFS',
+        '100% wallet-based auth through Phantom/Backpack',
+        'Tamper-proof PDAs with timestamp-locked unlock mechanism'
+      ],
+      live: true,
+      github: true,
+      liveUrl: 'https://time-capsule-sol-frontend.vercel.app/',
+      githubUrl: 'https://github.com/Vansh98789/TimeCapsule-Sol.git'
+    },
+
+
+
     {
       title: 'EventFlex',
       description:
